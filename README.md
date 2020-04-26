@@ -1,2 +1,2 @@
-# Snigdha
-30 days of Code
+
+Working on 30 days of Code.
