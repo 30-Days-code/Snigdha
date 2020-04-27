@@ -52,7 +52,26 @@ void Book :: display()
 }
 int main()
 {   
-    Book 
+    Book b;
+    cout<<"Enter what u wanna check"<<"\n1.Getdata" <<\n2.Availabilty"<<"\n3.Return"<<"\n4.display";
+    cin>>n;
+    Switch(n)
+        case 1:
+        {
+            b.getdata();
+        }
+        case 2:
+        {
+          b.availability();
+        }
+       case 3:
+        {
+          b.return();
+        }
+       case 4:
+        {
+            b.display();
+        }
 }
 
        
