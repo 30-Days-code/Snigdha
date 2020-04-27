@@ -1,5 +1,6 @@
 
 Working on 30 days of Code.
+
 DAY 1: Classes and Objects Define a class to represent a book in a library. Include the following members: -
 
 Data Members: Book Number, Book Name, Author, Publisher, Price, No. of copies issued, No. of copies
