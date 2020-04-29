@@ -108,7 +108,32 @@ int main()
                                                                   cout<<"Thirty Two";
                                                                  }
                                                                  else{
-                                                                  if(n==33){
+                                                                    cout<<"No. is more than 33 wrong input";
+                                                                 }
+                                                               }
+                                                            }
+                                                         }
+                                                       }
+                                                     }
+                                                 }
+                                             }
+                                         }
+                                       }
+                                    }
+                                  }
+                              }
+                           }
+                       }
+                  }
+                }
+             }
+         }
+       }
+    }
+   }
+}
+
+                                
                                                                   
                                
                    
