@@ -63,3 +63,12 @@ class clothing
   };
 
 int main() 
+{
+  clothing c1;
+  c1.enter();
+  c1.show();
+  c1.calc_price();
+
+  return 0;
+}
+
